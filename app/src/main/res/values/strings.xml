@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FilmTestApp</string>
+    <string name="search_movie">Search movie</string>
+    <string name="dialog_title">Error</string>
+    <string name="default_error_message">Something went wrong</string>
+    <string name="hint">Type text</string>
+    <string name="hint_search">Input film name</string>
+</resources>
